@@ -12,11 +12,11 @@
       </div>
 
       <div class="box">
-         <a href="home.php"><span>HOME</span></a>
-         <a href="about.php"><span>ABOUT</span></a>
-         <a href="contact.php"><span>CONTACT</span></a>
-         <a href="listings.php"><span>ALL-LISTING</span></a>
-         <a href="saved.php"><span>SAVED-PROPERTIES</span></a>
+         <a href="home.php"><span>Home</span></a>
+         <a href="about.php"><span>About</span></a>
+         <a href="contact.php"><span>Contact</span></a>
+         <a href="listings.php"><span>All Listing</span></a>
+         <a href="saved.php"><span>Saved properties</span></a>
       </div>
 
       <div class="box">
